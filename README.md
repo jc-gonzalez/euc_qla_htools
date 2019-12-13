@@ -1,2 +1,2 @@
-# eas_qla_htools
-Minor tools as header files
+# euc_qla_htools
+Small tools with only header files
